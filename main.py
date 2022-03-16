@@ -1,1 +1,2 @@
-print("my first project")
+print(list(range(1,23)))
+
